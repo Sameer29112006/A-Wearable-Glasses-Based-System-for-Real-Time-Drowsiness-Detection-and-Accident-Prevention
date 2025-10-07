@@ -46,6 +46,9 @@ Accident Prevention Glasses (APGs) detect driver drowsiness using IR sensors to 
 ![vid3](video3.mp4)
 ![vid4](video4.mp4)
 ![vid5](video5.mp4)
+![vid6](video6.mp4)
+![vid7](video7.mp4)
+![vid8](video8.mp4)
 
 ---
 
